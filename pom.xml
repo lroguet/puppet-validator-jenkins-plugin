@@ -7,9 +7,14 @@
 			<id>lroguet</id>
 			<name>Ludovic Roguet</name>
 			<email>contact@lroguet.com</email>
-			<url>http://blog.lroguet.com</url>
 		</developer>
 	</developers>
+
+	<scm>
+		<connection>scm:git:ssh://github.com/lroguet/lroguet/puppet-validator-jenkins-plugin.git</connection>
+		<developerConnection>scm:git:ssh://git@github.com/lroguet/puppet-validator-jenkins-plugin.git</developerConnection>
+		<url>https://github.com/lroguet/puppet-validator-jenkins-plugin.git</url>
+	</scm>
 
 	<parent>
 		<groupId>org.jenkins-ci.plugins</groupId>
